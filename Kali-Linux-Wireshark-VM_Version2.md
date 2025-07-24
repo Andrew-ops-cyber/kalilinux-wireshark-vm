@@ -12,7 +12,7 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Allocated system resources (CPU, RAM, disk) and configured network settings for optimal performance.
 
 **Screenshot:**  
-![VMware Workstation Pro Setup](images/vmware-setup.png)
+![VMware Workstation Pro Setup] Screenshot 2025-07-24 104331.png
 
 ---
 
