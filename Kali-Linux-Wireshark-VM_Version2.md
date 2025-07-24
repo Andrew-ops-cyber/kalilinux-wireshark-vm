@@ -12,7 +12,7 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Allocated system resources (CPU, RAM, disk) and configured network settings for optimal performance.
 
 **Screenshot:**  
-![VMware Workstation Pro Setup](images/kali-install.png)
+[VM Setup](Screenshot 2025-07-24 104331.png)
 
 ---
 
@@ -22,7 +22,7 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Performed basic system configuration and updates for security and usability.
 
 **Screenshot:**  
-![Kali Linux Installation](images/kali-install.png)
+![Kali Linux Install](Screenshot 2025-07-24 104611.png)
 
 ---
 
