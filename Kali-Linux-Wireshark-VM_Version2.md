@@ -12,7 +12,7 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Allocated system resources (CPU, RAM, disk) and configured network settings for optimal performance.
 
 **Screenshot:**  
-[VM Setup] [Screenshot 2025-07-24 104331.png](https://github.com/Andrew-ops-cyber/kalilinux-wireshark-vm/blob/main/Screenshot%202025-07-24%20104331.png?raw=true)
+[VM Setup] <img width="2138" height="1036" alt="image" src="https://github.com/user-attachments/assets/bf034339-19be-4ab4-9ec9-43f26ccb0b6a" />
 
 ---
 
