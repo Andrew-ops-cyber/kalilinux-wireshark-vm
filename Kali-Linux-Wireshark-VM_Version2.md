@@ -61,7 +61,8 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Learned to export packet captures for further analysis and reporting.
 
 **Screenshot:**  
-![Wireshark Filters](images/wireshark-filters.png)
+![Wireshark Filters]<img width="1487" height="922" alt="image" src="https://github.com/user-attachments/assets/a1d186da-eb24-44e8-9038-499ba5905198" />
+
 
 ---
 
