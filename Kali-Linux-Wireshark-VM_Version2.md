@@ -47,7 +47,8 @@ This project documents my hands-on experience setting up a cybersecurity lab env
   - Examine packet details and payloads.
 
 **Screenshot:**  
-![Wireshark Packet Capture](images/wireshark-packet-capture.png)
+![Wireshark Packet Capture](<img width="3349" height="1312" alt="image" src="https://github.com/user-attachments/assets/ce92ebf9-abc8-476f-ae29-82f3658fc13e" />
+)
 
 ---
 
