@@ -35,7 +35,8 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Configured Wireshark to capture live network traffic within the VM.
 
 **Screenshot:**  
-![Wireshark on Kali Linux](images/wireshark-kali.png)
+![Wireshark on Kali Linux]<img width="1547" height="935" alt="image" src="https://github.com/user-attachments/assets/21be9271-47ff-4f95-a436-02ec697cd312" />
+
 
 ---
 
