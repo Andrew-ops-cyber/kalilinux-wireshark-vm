@@ -12,7 +12,7 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Allocated system resources (CPU, RAM, disk) and configured network settings for optimal performance.
 
 **Screenshot:**  
-[VM Setup](Screenshot 2025-07-24 104331.png)
+[VM Setup] Screenshot 2025-07-24 104331.png
 
 ---
 
