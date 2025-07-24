@@ -48,7 +48,7 @@ g)
   - Examine packet details and payloads.
 
 **Screenshot:**  
-![Wireshark Packet Capture](<img width="3349" height="1312" alt="image" src="https://github.com/user-attachments/assets/ce92ebf9-abc8-476f-ae29-82f3658fc13e" />
+![Wireshark Packet Capture]([<img width="3349" height="1312" alt="image" src="https://github.com/user-attachments/assets/ce92ebf9-abc8-476f-ae29-82f3658fc13e" />](https://github.com/Andrew-ops-cyber/kalilinux-wireshark-vm/blob/main/Screenshot%202025-07-24%20104704.png?raw=true)
 )
 
 ---
