@@ -22,7 +22,7 @@ This project documents my hands-on experience setting up a cybersecurity lab env
 - Performed basic system configuration and updates for security and usability.
 
 **Screenshot:**  
-![Kali Linux Install](<img width="3336" height="1333" alt="image" src="https://github.com/user-attachments/assets/c7763bb7-be0c-40fc-bf0d-4f3f81086691" />
+![Kali Linux Install][(<img width="3336" height="1333" alt="image" src="https://github.com/user-attachments/assets/c7763bb7-be0c-40fc-bf0d-4f3f81086691" />
 g)
 
 ---
